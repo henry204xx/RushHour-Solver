@@ -1,5 +1,5 @@
 
-# Tucil3_13523051_13523108
+# Rush Hour Solver
 > Tugas Kecil 3 IF2211 Strategi Algoritma
 Penyelesaian Puzzle Rush Hour Menggunakan Algoritma Pathfinding
 Semester II Tahun 2024/2025
